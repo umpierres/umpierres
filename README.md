@@ -16,6 +16,7 @@
 ### Other Knowledge:
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
+![Wordpress](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
 ### Studying at the moment:
 
