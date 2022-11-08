@@ -17,10 +17,14 @@
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 
-### Studying in this moment:
+### Studying at the moment:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black&textColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+
+### Hobbies:
+
+🎮 **Gaming** 📖 **Reading** 📚 **Studing**
 
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umpierres&theme=monokai&utcOffset=8)
 ![Top Linguagens by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umpierres&theme=monokai)
@@ -33,6 +37,8 @@
 <br></div>
 
 <div align="center">  
+<h3><strong>Meus Contatos:</strong></h3>
+<br>
 <a href="https://www.instagram.com/1pierres/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/alexandra-umpierres-3a729121b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discord.com/channels/@umpierres#1708" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
