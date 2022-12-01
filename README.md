@@ -28,7 +28,7 @@
 🎮 **Gaming** 📖 **Reading** 📚 **Studing**
 
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umpierres&theme=monokai&utcOffset=8)
-![Top Linguagens by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umpierres)
+![Top Linguagens by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umpierres&theme=monokai)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=umpierres&theme=xcode&hide_border=true&area=true)
 
