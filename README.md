@@ -30,7 +30,6 @@
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umpierres&theme=monokai&utcOffset=8)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=umpierres&layout=compact&theme=dracula)
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=umpierres&theme=xcode&hide_border=true&area=true)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
