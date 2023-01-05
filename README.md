@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=48&center=true&vCenter=true&width=1000&lines=I'M+ALEXANDRA+UMPIERRES;A+19+YEAR+OLD+BRAZILIAN+WOMAN;I+STUDY+FULLSTACK+WEB+DEVELOPMENT;AT+GROWDEV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=48&center=true&vCenter=true&width=1000&lines=I'M+ALEXANDRA+UMPIERRES;A+19+YEARS+OLD+BRAZILIAN+WOMAN;I+STUDY+FULLSTACK+WEB+DEVELOPMENT;AT+GROWDEV)](https://git.io/typing-svg)
 
 ### Main skills:
 
