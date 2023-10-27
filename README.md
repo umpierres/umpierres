@@ -3,6 +3,7 @@
 ### Main skills:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black&textColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=javascript&labelColor=black&textColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5&labelColor=black)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=black)&nbsp;
 
@@ -20,7 +21,7 @@
 
 ### Studying at the moment:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black&textColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=javascript&labelColor=black&textColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 ### Hobbies:
