@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=48&center=true&vCenter=true&width=1000&lines=I'M+ALEXANDRA+UMPIERRES;A+19+YEARS+OLD+BRAZILIAN+WOMAN;I+STUDY+FULLSTACK+WEB+DEVELOPMENT;AT+GROWDEV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=48&center=true&vCenter=true&width=1000&lines=I'M+ALEXANDRA+UMPIERRES;A+20+YEARS+OLD+BRAZILIAN+WOMAN;I+STUDY+FULLSTACK+WEB+DEVELOPMENT;AT+GROWDEV)](https://git.io/typing-svg)
 
 ### Main skills:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black&textColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=javascript&labelColor=black&textColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5&labelColor=black)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=black)&nbsp;
 
@@ -17,11 +17,11 @@
 ### Other Knowledge:
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
-![Wordpress](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
 ### Studying at the moment:
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=javascript&labelColor=black&textColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 ### Hobbies:
