@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=48&center=true&vCenter=true&width=1000&lines=I'M+ALEXANDRA+UMPIERRES;A+20+YEARS+OLD+BRAZILIAN+WOMAN;I+STUDY+FULLSTACK+WEB+DEVELOPMENT;AT+GROWDEV)](https://git.io/typing-svg)
-
 ### Main skills:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black&textColor=black)&nbsp;
