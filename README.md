@@ -67,11 +67,11 @@ I'm continuously improving my development skills, with a particular focus on bac
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umpierres&show_icons=true&theme=dracula&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umpierres&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umpierres&layout=compact&theme=dracula&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5)
 
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umpierres&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umpierres&show_icons=true&theme=dracula&hide_border=true)
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umpierres&theme=dracula&utcOffset=-3)
 
